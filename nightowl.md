@@ -1,4 +1,5 @@
 MyRepo
 Hello World
 Adding Feature A
-Addinga a second line
+Adding a second line
+Adding a third line
